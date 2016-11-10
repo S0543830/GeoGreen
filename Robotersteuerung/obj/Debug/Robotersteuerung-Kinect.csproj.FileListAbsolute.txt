@@ -1,0 +1,58 @@
+C:\Users\elbardoni\Desktop\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.exe
+C:\Users\elbardoni\Desktop\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.pdb
+C:\Users\elbardoni\Desktop\SkeletonBasics-WPF\bin\Debug\Coding4Fun.Kinect.KinectService.Common.dll
+C:\Users\elbardoni\Desktop\SkeletonBasics-WPF\bin\Debug\Coding4Fun.Kinect.KinectService.PhoneClient.dll
+C:\Users\elbardoni\Desktop\SkeletonBasics-WPF\bin\Debug\Coding4Fun.Kinect.KinectService.WpfClient.dll
+C:\Users\elbardoni\Desktop\SkeletonBasics-WPF\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\elbardoni\Desktop\SkeletonBasics-WPF\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\elbardoni\Desktop\SkeletonBasics-WPF\bin\Debug\Microsoft.Kinect.dll
+C:\Users\elbardoni\Desktop\SkeletonBasics-WPF\bin\Debug\Microsoft.Kinect.xml
+C:\Users\elbardoni\Desktop\SkeletonBasics-WPF\obj\Debug\Robotersteuerung-Kinect.csprojResolveAssemblyReference.cache
+C:\Users\elbardoni\Desktop\SkeletonBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\elbardoni\Desktop\SkeletonBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\elbardoni\Desktop\SkeletonBasics-WPF\obj\Debug\App.g.cs
+C:\Users\elbardoni\Desktop\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+C:\Users\elbardoni\Desktop\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.g.resources
+C:\Users\elbardoni\Desktop\SkeletonBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+C:\Users\elbardoni\Desktop\SkeletonBasics-WPF\obj\Debug\Robotersteuerung-Kinect.csproj.GenerateResource.Cache
+C:\Users\elbardoni\Desktop\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\elbardoni\Desktop\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.pdb
+C:\Users\elbardoni\Desktop\Robotersteuerung\bin\Debug\Coding4Fun.Kinect.KinectService.Common.dll
+C:\Users\elbardoni\Desktop\Robotersteuerung\bin\Debug\Coding4Fun.Kinect.KinectService.PhoneClient.dll
+C:\Users\elbardoni\Desktop\Robotersteuerung\bin\Debug\Coding4Fun.Kinect.KinectService.WpfClient.dll
+C:\Users\elbardoni\Desktop\Robotersteuerung\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\elbardoni\Desktop\Robotersteuerung\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\elbardoni\Desktop\Robotersteuerung\bin\Debug\Microsoft.Kinect.dll
+C:\Users\elbardoni\Desktop\Robotersteuerung\bin\Debug\Microsoft.Kinect.xml
+C:\Users\elbardoni\Desktop\Robotersteuerung\obj\Debug\Robotersteuerung-Kinect.csprojResolveAssemblyReference.cache
+C:\Users\elbardoni\Desktop\Robotersteuerung\obj\Debug\MainWindow.baml
+C:\Users\elbardoni\Desktop\Robotersteuerung\obj\Debug\MainWindow.g.cs
+C:\Users\elbardoni\Desktop\Robotersteuerung\obj\Debug\App.g.cs
+C:\Users\elbardoni\Desktop\Robotersteuerung\obj\Debug\Robotersteuerung-Kinect.csproj.GenerateResource.Cache
+C:\Users\elbardoni\Desktop\Robotersteuerung\obj\Debug\Roboter_MarkupCompile.cache
+C:\Users\elbardoni\Desktop\Robotersteuerung\obj\Debug\Roboter.g.resources
+C:\Users\elbardoni\Desktop\Robotersteuerung\obj\Debug\RoboterKinect.Properties.Resources.resources
+C:\Users\elbardoni\Desktop\Robotersteuerung\bin\Debug\Roboter.exe
+C:\Users\elbardoni\Desktop\Robotersteuerung\bin\Debug\Roboter.pdb
+C:\Users\elbardoni\Desktop\Robotersteuerung\obj\Debug\Roboter.exe
+C:\Users\elbardoni\Desktop\Robotersteuerung\obj\Debug\Roboter.pdb
+C:\Users\elbardoni\Desktop\FÜP ws15\Che-El-Luo-Ref\04-Realisierung\Robotersteuerung\obj\Debug\Roboter.exe
+C:\Users\elbardoni\Desktop\FÜP ws15\Che-El-Luo-Ref\04-Realisierung\Robotersteuerung\obj\Debug\Roboter.pdb
+C:\Users\elbardoni\Desktop\FÜP ws15\Che-El-Luo-Ref\04-Realisierung\Robotersteuerung\bin\Debug\Roboter.exe
+C:\Users\elbardoni\Desktop\FÜP ws15\Che-El-Luo-Ref\04-Realisierung\Robotersteuerung\bin\Debug\Roboter.pdb
+C:\Users\elbardoni\Desktop\FÜP ws15\Che-El-Luo-Ref\04-Realisierung\Robotersteuerung\bin\Debug\Coding4Fun.Kinect.KinectService.Common.dll
+C:\Users\elbardoni\Desktop\FÜP ws15\Che-El-Luo-Ref\04-Realisierung\Robotersteuerung\bin\Debug\Coding4Fun.Kinect.KinectService.PhoneClient.dll
+C:\Users\elbardoni\Desktop\FÜP ws15\Che-El-Luo-Ref\04-Realisierung\Robotersteuerung\bin\Debug\Coding4Fun.Kinect.KinectService.WpfClient.dll
+C:\Users\elbardoni\Desktop\FÜP ws15\Che-El-Luo-Ref\04-Realisierung\Robotersteuerung\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\elbardoni\Desktop\FÜP ws15\Che-El-Luo-Ref\04-Realisierung\Robotersteuerung\obj\Debug\Robotersteuerung-Kinect.csprojResolveAssemblyReference.cache
+C:\Users\elbardoni\Desktop\FÜP ws15\Che-El-Luo-Ref\04-Realisierung\Robotersteuerung\obj\Debug\MainWindow.baml
+C:\Users\elbardoni\Desktop\FÜP ws15\Che-El-Luo-Ref\04-Realisierung\Robotersteuerung\obj\Debug\MainWindow.g.cs
+C:\Users\elbardoni\Desktop\FÜP ws15\Che-El-Luo-Ref\04-Realisierung\Robotersteuerung\obj\Debug\App.g.cs
+C:\Users\elbardoni\Desktop\FÜP ws15\Che-El-Luo-Ref\04-Realisierung\Robotersteuerung\obj\Debug\Roboter_MarkupCompile.cache
+C:\Users\elbardoni\Desktop\FÜP ws15\Che-El-Luo-Ref\04-Realisierung\Robotersteuerung\obj\Debug\Roboter.g.resources
+C:\Users\elbardoni\Desktop\FÜP ws15\Che-El-Luo-Ref\04-Realisierung\Robotersteuerung\obj\Debug\RoboterKinect.Properties.Resources.resources
+C:\Users\elbardoni\Desktop\FÜP ws15\Che-El-Luo-Ref\04-Realisierung\Robotersteuerung\obj\Debug\Robotersteuerung-Kinect.csproj.GenerateResource.Cache
+C:\Users\elbardoni\Desktop\FÜP ws15\Che-El-Luo-Ref\04-Realisierung\Robotersteuerung\obj\Debug\WindowComEingabe.g.cs
+C:\Users\elbardoni\Desktop\FÜP ws15\Che-El-Luo-Ref\04-Realisierung\Robotersteuerung\obj\Debug\Roboter_MarkupCompile.lref
+C:\Users\elbardoni\Desktop\FÜP ws15\Che-El-Luo-Ref\04-Realisierung\Robotersteuerung\obj\Debug\WindowComEingabe.baml
+C:\Users\elbardoni\Desktop\FÜP ws15\Che-El-Luo-Ref\04-Realisierung\Robotersteuerung\bin\Debug\Coding4Fun.Kinect.Wpf.dll

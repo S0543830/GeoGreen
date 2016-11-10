@@ -1,0 +1,14 @@
+﻿<Window x:Class="RoboterKinect.WindowComEingabe"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RoboterKinect"
+        mc:Ignorable="d"
+        Title="WindowComEingabe" Height="300" Width="300">
+    <Grid>
+        <Label x:Name="label" Content="Bitte geben Sie die COM Nummer ein &#xD;&#xA;mit der Sie ihr Arduino verbunden &#xD;&#xA;haben:" HorizontalAlignment="Left" Margin="33,79,0,0" VerticalAlignment="Top" Width="220" Height="55"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="23" Margin="83,157,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="textBox_TextChanged" TouchEnter="textBoxEnter"/>
+
+    </Grid>
+</Window>
